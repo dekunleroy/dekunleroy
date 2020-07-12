@@ -1,6 +1,6 @@
-![### Hi there 👋]
+### Hi there 👋
 
-(https://github.com/dekunleroy/dekunleroy/raw/master/bio.gif)
+![bio](https://raw.githubusercontent.com/dekunleroy/dekunleroy/master/bio.gif)
 
 <!--
 **dekunleroy/dekunleroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
