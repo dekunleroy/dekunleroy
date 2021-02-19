@@ -14,7 +14,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/m-bakr/)](https://www.linkedin.com/in/sadebanjo/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/bkshjs)](https://twitter.com/sublimeaker)
-[![Github Badge](https://img.shields.io/badge/GitHub-330F63?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/dekunleroy)](https://github.com/dekunleroy)
+[![Github Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/dekunleroy)](https://github.com/dekunleroy)
 
 <br />
 
