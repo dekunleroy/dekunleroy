@@ -1,5 +1,5 @@
 
-# Hiya, Roy here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hiya, Segun here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 > [Portfolio]
 
